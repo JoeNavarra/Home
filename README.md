@@ -4,7 +4,7 @@
 Purdue University BSME 2021
 
 Please excuse this placeholder as I finalize my website.
-In the meantime, check me out on <a href="http://www.linkedin.com/in/navarrajosephm">LinkedIn</a>.
+In the meantime, check me out on <a href="https://www.linkedin.com/in/navarrajoseph/">LinkedIn</a>.
 
 <a href="http://www.google.com">Google</a>?<br />
 
