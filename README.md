@@ -5,4 +5,4 @@
 Please excuse this placeholder as I finalize my website.
 In the meantime, check me out on <a href="https://www.linkedin.com/in/navarrajoseph/">LinkedIn</a>.
 
-This site should be running by September 1st 2019 (Updated August 7th 2019)
+The development of this website is suspended until further notice (Updated August 26th 2019)
